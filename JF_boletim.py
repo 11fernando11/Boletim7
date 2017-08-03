@@ -1,6 +1,3 @@
-import os
-import sys
-
 #criando escola
 class Escola():
 	def __init__(self,nome,endereco,campus):
